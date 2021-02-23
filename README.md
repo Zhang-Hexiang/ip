@@ -1,8 +1,3 @@
-ip-geolocation
-=========================
-
-TODO
-
 ip-geolocator
 ====================
 
